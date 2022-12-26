@@ -15,12 +15,12 @@ form {
   border: 2px solid rgba(63, 173, 89, 0.742734593837535) 47%;
   border-radius: 8px;
   background: rgb(134, 228, 230);
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(134, 228, 230, 1) 0%,
     rgba(230, 193, 104, 0.8687850140056023) 93%,
     rgba(253, 187, 45, 1) 100%
-  );
+  ); */
 }
 label {
   font-weight: bold;
